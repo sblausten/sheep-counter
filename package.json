@@ -1,0 +1,19 @@
+{
+  "name": "sheep-counter",
+  "version": "1.0.0",
+  "description": "Sinatra app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sblausten/sheep-counter.git"
+  },
+  "author": "sblausten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sblausten/sheep-counter/issues"
+  },
+  "homepage": "https://github.com/sblausten/sheep-counter#readme"
+}
