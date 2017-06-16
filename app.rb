@@ -1,7 +1,9 @@
 require 'sinatra'
 
 class SheepCounterApp < Sinatra::Base
+	set :erb, :format => :html5
+
 	get '/' do
-		'Testing testing'
+		erb :index
 	end
 end

@@ -1,0 +1,25 @@
+body {
+	font-family: sans-serif;
+}
+
+img#add_sheep {
+	margin: 20vh auto 0 auto;
+	display: block;
+	cursor: pointer;
+}
+
+div#sheep_count {
+	margin: 3em auto;
+	padding: 0.5em 1em .5em 1em;
+	min-height: 1em;
+	width: 15vw;
+/*	border: 1px solid grey;*/
+	text-align: center;
+}
+
+button#reset {
+	margin: 20vh auto 5vh auto;
+	display: block;
+	padding: 0.5em 1em .5em 1em;
+}
+

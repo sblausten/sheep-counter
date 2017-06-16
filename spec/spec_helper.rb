@@ -3,7 +3,7 @@ require './app'
 
 Capybara.app = SheepCounterApp
 
-Capybara.javascript_driver = :webkits
+Capybara.javascript_driver = :selenium
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|
@@ -16,3 +16,4 @@ RSpec.configure do |config|
 
   config.shared_context_metadata_behavior = :apply_to_host_groups
 end
+
