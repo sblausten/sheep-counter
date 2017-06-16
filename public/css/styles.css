@@ -1,6 +1,5 @@
 body {
 	font-family: sans-serif;
-	font-size: large;
 }
 
 img#add_sheep {
@@ -17,7 +16,7 @@ div#sheep_count {
 	width: 15vw;
 /*	border: 1px solid grey;*/
 	text-align: center;
-	font-size: x-large;
+	font-size: xx-large;
 }
 
 button {
@@ -26,6 +25,6 @@ button {
 	background-color: transparent;
 	border: 1px solid black !important;
 	padding: .7em 1.5em .7em 1.5em;
-	font-size: large;
+	font-size: x-large;
 }
 
