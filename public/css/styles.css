@@ -3,28 +3,26 @@ body {
 }
 
 img#add_sheep {
-	margin: 20vh auto 0 auto;
+	margin: 10vh auto 0 auto;
 	display: block;
 	cursor: pointer;
-	min-width: 40vw;
+	min-height: 30vh;
 }
 
 div#sheep_count {
-	margin: 3em auto;
-	padding: 0.5em 1em .5em 1em;
+	margin: 8vh auto;
 	min-height: 1em;
 	width: 15vw;
-/*	border: 1px solid grey;*/
 	text-align: center;
-	font-size: xx-large;
+	font-size: 6vh;
 }
 
 button {
-	margin: 20vh auto 5vh auto;
+	margin: 15vh auto 5vh auto;
 	display: block;
 	background-color: transparent;
 	border: 1px solid black !important;
-	padding: .7em 1.5em .7em 1.5em;
-	font-size: x-large;
+	padding: .5em 1.5em .5em 1.5em;
+	font-size: 3vh;
 }
 

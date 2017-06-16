@@ -19,9 +19,9 @@ Inspired by Mary Rose Cook's [Count](https://github.com/maryrosecook/count) exem
 ## To run locally
 ```bash
 bundle install
-ruby app.rb
+rackup
 ```
-Open localhost:4567 in any browser.
+Open localhost:9292 in any browser.
 Start clicking the sheep!
 
 ## To test
