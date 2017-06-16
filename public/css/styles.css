@@ -1,11 +1,13 @@
 body {
 	font-family: sans-serif;
+	font-size: large;
 }
 
 img#add_sheep {
 	margin: 20vh auto 0 auto;
 	display: block;
 	cursor: pointer;
+	min-width: 40vw;
 }
 
 div#sheep_count {
@@ -15,11 +17,15 @@ div#sheep_count {
 	width: 15vw;
 /*	border: 1px solid grey;*/
 	text-align: center;
+	font-size: x-large;
 }
 
-button#reset {
+button {
 	margin: 20vh auto 5vh auto;
 	display: block;
-	padding: 0.5em 1em .5em 1em;
+	background-color: transparent;
+	border: 1px solid black !important;
+	padding: .7em 1.5em .7em 1.5em;
+	font-size: large;
 }
 
