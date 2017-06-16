@@ -1,13 +1,10 @@
-(function(exports) {
+var display = (function() {
 
-	function updateDisplayCount(num) {
+	function updateCount(num) {
 		document.getElementById('sheep_count')
 			.innerHTML = num.toString();
 	}
 	
-	exports.updateDisplayCount = updateDisplayCount;
+	return { updateCount: updateCount };
 
-})(this);
-
-
-
+})();
