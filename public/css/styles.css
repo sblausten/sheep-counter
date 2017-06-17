@@ -24,6 +24,7 @@ div#sheep_count {
 button {
 	margin: 15vh auto 5vh auto;
 	display: block;
+	cursor: pointer;
 	background-color: transparent;
 	border: 1px solid black !important;
 	padding: .5em 1.5em .5em 1.5em;
