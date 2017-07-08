@@ -1,5 +1,5 @@
 # Sheep Counter
-A tiny sinatra web app for shephard to count in their sheep on those cold dark winter evenings.
+A tiny app for shephards to count in their sheep on those cold dark winter evenings.
 
 Inspired by Mary Rose Cook's [Count](https://github.com/maryrosecook/count) exemplar.
 
@@ -14,6 +14,7 @@ Inspired by Mary Rose Cook's [Count](https://github.com/maryrosecook/count) exem
 - Selenium-webdriver
 
 ## To count some sheep:
+Crank up your device's volume and start clicking.
 [sheep-counter.herokuapp.com](https://sheep-counter.herokuapp.com/)
 
 ## To run locally
